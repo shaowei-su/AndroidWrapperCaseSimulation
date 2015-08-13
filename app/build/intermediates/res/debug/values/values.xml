@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/shaowei/StudioProjects/CEIPepSexualAssault/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/shaowei/StudioProjects/GitPSA/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <color name="grey">#DDDDDD</color>
     <color name="white">#FFFFFF</color>
-    <!-- From: file:/Users/shaowei/StudioProjects/CEIPepSexualAssault/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/shaowei/StudioProjects/GitPSA/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">CEIPepSexualAssault</string>
     <string name="hello">Hello World!</string>
-    <!-- From: file:/Users/shaowei/StudioProjects/CEIPepSexualAssault/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/shaowei/StudioProjects/GitPSA/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="CustomTheme" parent="android:Theme.Light">
 		<item name="android:windowBackground">@color/white</item>
