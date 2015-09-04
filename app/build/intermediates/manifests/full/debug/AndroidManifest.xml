@@ -13,12 +13,12 @@
 
     <application
         android:icon="@drawable/icon"
-        android:label="CEIPepSexualAssault"
+        android:label="CEIPEPforVSA"
         android:theme="@style/CustomThemeNoTitle" >
         <activity
             android:name="com.ceitraining.CEIPepSexualAssault.CEIPepSexualAssaultActivity"
             android:configChanges="keyboardHidden|orientation"
-            android:label="CEIPepSexualAssault" >
+            android:label="CEIPEPforVSA" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

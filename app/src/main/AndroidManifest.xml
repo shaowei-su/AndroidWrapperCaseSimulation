@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.ceitraining.CEIPepSexualAssault"
-    android:versionCode="2"
-    android:versionName="1.2" >
+    android:versionCode="3"
+    android:versionName="1.3" >
 
     <uses-sdk android:minSdkVersion="7" android:targetSdkVersion="19"/>
     <uses-permission android:name="android.permission.INTERNET"></uses-permission>
@@ -10,10 +10,10 @@
 
     <application
         android:icon="@drawable/icon"
-        android:label="CEIPepSexualAssault" android:theme="@style/CustomThemeNoTitle">
+        android:label="CEIPEPforVSA" android:theme="@style/CustomThemeNoTitle">
         <activity
             android:name=".CEIPepSexualAssaultActivity"
-            android:label="CEIPepSexualAssault"
+            android:label="CEIPEPforVSA"
             android:configChanges="keyboardHidden|orientation">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
